@@ -9,6 +9,8 @@
 - Reward will vary depending on winning condition
 - Override winning/losing from seperate computer
 - On win you can make the slots play a sound and/or flash lights
+- Lots of room to add your own details/messages on monitors
+- Uses Bundled wires to keep things tidy
 
 <img src="https://media.giphy.com/media/4HiblF79TQOCsGmqOy/giphy.gif">
 
