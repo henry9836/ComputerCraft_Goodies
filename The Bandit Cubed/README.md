@@ -25,6 +25,8 @@
 - If you select option: 2 anyone that uses the slot machine will lose every round
 - If you select option: 99 all overrides are disabled
 
+<img src="https://media.giphy.com/media/Aij7OfDh0qpJjLiOay/giphy.gif">
+
 ## Setup:
 
 - Follow the diagram to setup the physical slot machine
