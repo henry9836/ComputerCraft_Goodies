@@ -14,10 +14,19 @@
 
 <img src="https://media.giphy.com/media/4HiblF79TQOCsGmqOy/giphy.gif">
 
+## Usage:
+### Slot Machine
+- Insert any number of Items into the chest and press the button to play (it will return any invalid items, setup valid items in diamond pipe)
+- If you win wait a little bit for the items to go into the chest and recieve your winnings
+
+### Controller
+- When starting the controller it will reset your current overrides
+- If you select option: 
+
 ## Setup:
 
 - Follow the diagram to setup the physical slot machine
-- casino_controller.lua is used on the controlling computer
+- casino_controller.lua is used on the controlling computer (use only to override player's outcomes)
 - casino.lua is used on the slot machine
 
 <img src="https://media.giphy.com/media/vcqgkHwtob1jw7ICPM/giphy.gif">
