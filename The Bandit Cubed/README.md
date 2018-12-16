@@ -38,3 +38,8 @@
 
 Optional:
 - Controller Computer
+
+## Downloads:
+
+<a href="https://pastebin.com/raw/FsnL0Fpi"> Controller </a>
+<a href="https://pastebin.com/raw/t13jpbgx"> Slot Machine </a>
