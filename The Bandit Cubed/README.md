@@ -1,4 +1,4 @@
-<img src="https://s2.gifyu.com/images/gifb40ff0b8de0b9512.md.gif">
+<img src="https://media.giphy.com/media/wa8tnwMScQzSs6kLtT/giphy.gif">
 
 # The Bandit^3 Slot Machine
 ### Built by Henry Oliver
