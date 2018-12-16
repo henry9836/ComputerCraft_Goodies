@@ -27,12 +27,12 @@
 
 ## Setup:
 
-Optional:
-- Controller Computer
-
 - Follow the diagram to setup the physical slot machine
 - Install the lua files onto the computers using pastebin
 - casino_controller.lua is used on the controlling computer (use only to override player's outcomes)
 - casino.lua is the startup program for the slot machine
 
 <img src="https://media.giphy.com/media/vcqgkHwtob1jw7ICPM/giphy.gif">
+
+Optional:
+- Controller Computer
