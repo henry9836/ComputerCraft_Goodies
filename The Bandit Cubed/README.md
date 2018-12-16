@@ -21,7 +21,9 @@
 
 ### Controller
 - When starting the controller it will reset your current overrides
-- If you select option: 
+- If you select option: 1 anyone that uses the slot machine will win every round
+- If you select option: 2 anyone that uses the slot machine will lose every round
+- If you select option: 99 all overrides are disabled
 
 ## Setup:
 
