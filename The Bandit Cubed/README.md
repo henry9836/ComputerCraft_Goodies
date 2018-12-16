@@ -3,6 +3,7 @@
 # The Bandit<sup>3</sup> Slot Machine
 ### Built by Henry Oliver
 
+<img src="https://media.giphy.com/media/4HiblF79TQOCsGmqOy/giphy.gif">
 
 ## Features:
 
