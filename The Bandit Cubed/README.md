@@ -3,14 +3,14 @@
 # The Bandit<sup>3</sup> Slot Machine
 ### Built by Henry Oliver
 
-<img src="https://media.giphy.com/media/4HiblF79TQOCsGmqOy/giphy.gif">
-
 ## Features:
 
 - Slots that will reward the player if they win
 - Reward will vary depending on winning condition
 - Override winning/losing from seperate computer
 - On win you can make the slots play a sound and/or flash lights
+
+<img src="https://media.giphy.com/media/4HiblF79TQOCsGmqOy/giphy.gif">
 
 ## Setup:
 
