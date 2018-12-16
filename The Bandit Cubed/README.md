@@ -17,3 +17,5 @@
 - Follow the diagram to setup the physical slot machine
 - casino_controller.lua is used on the controlling computer
 - casino.lua is used on the slot machine
+
+<img src="https://media.giphy.com/media/vcqgkHwtob1jw7ICPM/giphy.gif">
