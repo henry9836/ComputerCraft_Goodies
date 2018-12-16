@@ -1,2 +1,2 @@
 # ComputerCraft_Goodies
-things I made for computercraft
+things I made while playing around with computercraft
